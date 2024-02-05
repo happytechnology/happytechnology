@@ -4,7 +4,7 @@ Welcome to Happytechnology github the code home of **Oliver Tinsman**
 
 - 🔭 I’m currently working on ... documentation of my homelab using Jekyll staic pages on github
 - 💬 Ask me about ... AI-Native networking
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/olivertinsman/) or [www](www.olivertinsman.com)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/olivertinsman/) or [www](https://www.olivertinsman.com)
 <!--
 **happytechnology/happytechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
