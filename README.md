@@ -2,8 +2,8 @@
 
 Welcome to Happytechnology github the code home of **Oliver Tinsman**
 
-- 🔭 I’m currently working on ... documentation of my homelab using Jekyll staic pages on github
-- 💬 Ask me about ... AI-Native networking
+- 🔭 I’m currently working on ... Building and tuning a vast homelab setup of Proxmox, Docker, Portainer, Unifi, OpenSense, [containerized routers](https://www.juniper.net/us/en/products/routers/containerized-routing-protocol-daemon-crpd.html), [containerized firewalls](https://www.juniper.net/us/en/products/security/srx-series/csrx-containerized-firewall.html) , and other various cloud native systems.
+- 💬 Ask me about ... [AI-Native networking](https://www.juniper.net/us/en/ai-native-networking-platform.html)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/olivertinsman/) or [www](https://www.olivertinsman.com)
 <!--
 **happytechnology/happytechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
